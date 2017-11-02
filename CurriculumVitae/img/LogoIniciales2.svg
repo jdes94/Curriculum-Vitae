@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="146.46371mm"
+   height="140.58376mm"
+   viewBox="0 0 146.46371 140.58376"
+   version="1.1"
+   id="svg4649"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="LogoIniciales2.svg">
+  <defs
+     id="defs4643">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5472"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5468" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5470" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-301.98845"
+     inkscape:cy="511.51258"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g6920"
+     showgrid="false"
+     showguides="true"
+     inkscape:snap-bbox="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     objecttolerance="20"
+     inkscape:snap-path-clip="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata4646">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-37.417732,-143.58728)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4655"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion4657"><rect
+           id="rect4659"
+           width="48.487324"
+           height="177.78685"
+           x="159.6041"
+           y="498.24542" /></flowRegion><flowPara
+         id="flowPara4661"></flowPara></flowRoot>    <g
+       id="g6920">
+      <rect
+         y="143.58728"
+         x="37.417732"
+         height="140.58376"
+         width="146.46371"
+         id="rect6915"
+         style="fill:#000000;fill-opacity:0.92307691;stroke-width:0.25413209" />
+      <text
+         transform="scale(0.86323284,1.158436)"
+         id="text4653"
+         y="224.39651"
+         x="63.235165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:114.48439789px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:0.92307691;stroke:none;stroke-width:25.26398468"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:114.48439789px;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:0.92307691;stroke-width:25.26398468"
+           y="224.39651"
+           x="63.235165"
+           id="tspan4651"
+           sodipodi:role="line">JE</tspan></text>
+    </g>
+  </g>
+</svg>
